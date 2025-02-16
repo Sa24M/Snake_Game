@@ -97,7 +97,7 @@
 } 
 
 /* 📱 Mobile Styling */
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1000px) {
     .body {
         background: none;
         justify-content: flex-start;
